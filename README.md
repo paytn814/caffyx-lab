@@ -1,21 +1,37 @@
 # caffyx-lab
 
-tracking what i learn as i go
+A personal cybersecurity learning lab focused on Linux, networking, system behavior, and defensive security fundamentals.
+
+This repository is used to document what I learn, organize technical notes, and build a repeatable workflow for labs, CTF practice, and security research.
 
 ---
 
-## topics
-- linux commands
-- networking basics
-- cybersecurity concepts
-- labs + notes
+## Focus Areas
+
+- Linux system administration
+- Networking fundamentals
+- Web security basics
+- Threat detection concepts
+- Vulnerability research
+- CTF methodology
+- Documentation and technical writing
 
 ---
 
-## purpose
-this is where i keep things i’m learning so i can actually understand them later
+## Current Goals
+
+- Build stronger troubleshooting habits
+- Understand how systems fail and how they are defended
+- Improve command-line confidence
+- Practice clean documentation
+- Develop a repeatable lab workflow
 
 ---
 
-## status
-in progress
+## Repository Structure
+
+```text
+labs/       hands-on lab notes and walkthroughs
+notes/      topic-based study notes
+writeups/   templates and challenge writeups
+roadmap.md  learning plan and goals
